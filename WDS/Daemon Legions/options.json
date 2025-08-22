@@ -262,5 +262,13 @@
     "OwnerId": "68357f33790d8280c4b1f24c",
     "WDSDataId": "standard_bearer",
     "StatlineIndex": "1"
+  },
+  {
+    "Id": "option_1755885258349",
+    "Name": "Horde Thresher",
+    "Type": "ModelChoice",
+    "OwnerId": "68357f31790d8280c4b1f0b5",
+    "WDSDataId": "68357f31790d8280c4b1f0b4",
+    "StatlineIndex": ""
   }
 ]
