@@ -924,18 +924,6 @@
     "PathName": "Bound Spells"
   },
   {
-    "Id": "echoes of the dark forest/totems",
-    "Name": "Echoes of the Dark Forest",
-    "Type": "Augment",
-    "Attributes": {},
-    "Description": "The target gains <span class=\"textbf\">Fearless</span>.\nIn addition, it may immediately perform a  5\" <span class=\"textbf\">Magical Move</span>. This spell may target units in Ambush. If so, the target unit immediately enters the Battlefied following normal <span class=\"textbf\">Ambush</span> rules, instead of performing a Magical Move.",
-    "CastingValue": "6",
-    "Range": "24",
-    "Duration": "1 Turn",
-    "Level": "T",
-    "PathName": "Totems"
-  },
-  {
     "Id": "black wing totem/totems",
     "Name": "Black Wing Totem",
     "Type": "Augment",
